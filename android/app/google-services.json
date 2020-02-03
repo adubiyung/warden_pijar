@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "522595691282",
+    "firebase_url": "https://pijar-app.firebaseio.com",
+    "project_id": "pijar-app",
+    "storage_bucket": "pijar-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522595691282:android:91293e4df9eefd607a61cb",
+        "android_client_info": {
+          "package_name": "com.example.warden_pijar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522595691282-7up3ccgt5sa9jf5eur8d77aj6gt55io8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.warden_pijar",
+            "certificate_hash": "2a7880b462a610a963071fe13b159fc3442f5d55"
+          }
+        },
+        {
+          "client_id": "522595691282-ve32bfg75dt36k3rpkq9bhch0di9mo05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuGmMnLkyMxdih-PYX7mYdRa1e6chOP1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522595691282-ve32bfg75dt36k3rpkq9bhch0di9mo05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
